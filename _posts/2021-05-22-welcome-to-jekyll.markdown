@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome To Jekyll"
-date:   2021-05-22 22:26:14 +0530
+title:  "Welcome To Agad Simplified "
+date:   2021-05-23 21:41:14 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Agadtantra is a very dynamic subject of Third Professional BAMS. Being dynamic and practically oriented subject, it is still some what ignored. 
+Students are somewhat reluctant towards the Agadtantra Shloka recitation. Its may be because they dont feel to recite or they are afraid of sanskrit pronounciation.
+If you take any verse of Agadtantra, it is filled with enormous amount of information. So if you recite such verse and understand it then you can study smartly and can save your energy and time also. 
+Agad Simplified will cater you the important verses of Agadtantra and its description. Soon these Audio verses will be available on our website.
+These important verses will help you in your examinations as well as private practice in future.
+So, leave behind fear of Sanskrit and recite the verses freely.
+Welcome to Agad Simplified; do visit the site frequently for updates.
+Your suggestions and feedback are most welcome in order to deliver you the best content.
+Thank you.
