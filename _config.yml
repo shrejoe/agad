@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Agad Simplified
+email: dr.shreyasjoshi@live.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello students, you have landed to a perfect site. This site will cater you important 
+  verses of Agadtantra to remember and here you will be helped with the audio of the verses 
+  in order to listen repaetedly. You will be benefitted with descriotion of important verses.
+  Simplified Agadtantra, We will help you to memorize. Bookmark us and stay tuned for updates.
+  Thank you for visiting.
 baseurl: "agad" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
